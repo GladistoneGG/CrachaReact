@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GladistoneGG/CrachaReact.git/static/css/main.8c9b7977.css",
+    "main.js": "/GladistoneGG/CrachaReact.git/static/js/main.5ab47b42.js",
+    "static/js/787.41d7847c.chunk.js": "/GladistoneGG/CrachaReact.git/static/js/787.41d7847c.chunk.js",
+    "index.html": "/GladistoneGG/CrachaReact.git/index.html",
+    "main.8c9b7977.css.map": "/GladistoneGG/CrachaReact.git/static/css/main.8c9b7977.css.map",
+    "main.5ab47b42.js.map": "/GladistoneGG/CrachaReact.git/static/js/main.5ab47b42.js.map",
+    "787.41d7847c.chunk.js.map": "/GladistoneGG/CrachaReact.git/static/js/787.41d7847c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c9b7977.css",
+    "static/js/main.5ab47b42.js"
+  ]
+}
